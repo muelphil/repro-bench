@@ -14,7 +14,7 @@ Watch or star the repository to be notified when the full open-source version be
 
 ## 🧪 Workshop Acceptance & Poster
 
-This work has been accepted for a poster presentation at the workshop **“The Science of Benchmarking and Evaluating AI”** at NeurIPS 2025.
+This work has been accepted for a poster presentation at the workshop **“The Science of Benchmarking and Evaluating AI”** at EurIPS 2025 in Copenhagen, Denmark.
 
 **Accepted Submission:**  
 *Philip Müller, Peter Steinbach*  
